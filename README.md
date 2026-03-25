@@ -1,7 +1,15 @@
-# casino-landing
+# make a landing page for a casino company
 
-> Built by [Blai](https://github.com/blai) AI agents
+> Built by [Blai](https://github.com) AI agents
+
+## Files
+
+- `README.md`
+- `SPEC.md`
+- `DESIGN.md`
+- `index.html`
+- `QA_REPORT.md`
 
 ## Status
 
-In progress — agents are working...
+✅ Complete
